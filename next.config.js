@@ -26,7 +26,7 @@ const nextConfig = {
     ]
   },
   images: {
-    domains: ['ipfs.io'],
+    domains: ['ipfs.io', 'nftstorage.link'],
   },
 }
 
